@@ -9,15 +9,15 @@ public class GridViewer
                 switch(grid[i][j])
                 {
                     case Maze.EMPTY:
-                        System.out.print("aa");
+                        System.out.print("aaa");
                         break;
                         
                     case Maze.WALL:
-                        System.out.print("bb");
+                        System.out.print("bbbb");
                         break;
                         
                     case Maze.START:
-                        System.out.print("cc");
+                        System.out.print("cccc");
                         break;
                         
                     case Maze.END:
